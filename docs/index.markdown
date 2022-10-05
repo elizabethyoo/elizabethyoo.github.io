@@ -40,4 +40,4 @@ countable state topological Markov chains with holes. Discrete & Continuous Dyna
 
 In my free time, I like to [rock climb](/pics/climbing.jpg). 
 
-I also enjoy [hiking](hiking.jpeg), seeking new [dessert spots](dessert.JPG), and watching anime.  
+I also enjoy [hiking](/pics/hiking.jpeg), seeking new [dessert spots](/pics/dessert.JPG), and watching anime.  
