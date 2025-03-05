@@ -9,7 +9,7 @@ layout: home
 
 ## About Me 👩‍🔬
 
-Hi! I am a Ph.D. student studying [Biostatistics](https://hsph.harvard.edu/department/biostatistics/) at the Harvard T.H. Chan School of Public Health. I am interested in developing **interpretable** and reliable **deep learning** methods for **digital phenotyping** and **precision health** applications, with the larger goal of democratizing health. Specifically, I am interested in analyzing continuously and **passively collected data** from personal digital devices (e.g. smartphones and wearables) to quantify and improve the quality of life of individuals suffering from cancer, mental health disorders, and other diseases. 
+Hi! I am a Ph.D. student studying [Biostatistics](https://hsph.harvard.edu/department/biostatistics/) at the Harvard T.H. Chan School of Public Health. I am interested in developing **interpretable** and reliable **deep learning** methods for **digital phenotyping** and **precision health** applications, with a larger goal of democratizing health. Specifically, I am interested in analyzing continuously and **passively collected data** from personal digital devices (e.g. smartphones and wearables) to quantify and improve the quality of life of individuals suffering from cancer, mental health disorders, and other diseases. 
 
 I am very fortunate to be advised by [Prof. Jukka-Pekka Onnela](https://hsph.harvard.edu/research/onnela-lab/). My Ph.D. is supported by the Harvard Prize Fellowship and the NIH T32 Cancer Training Grant. 
 
