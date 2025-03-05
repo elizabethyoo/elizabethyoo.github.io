@@ -13,7 +13,7 @@ Hi! I am a Ph.D. student studying [Biostatistics](https://hsph.harvard.edu/depar
 
 I am very fortunate to be advised by [Prof. Jukka-Pekka Onnela](https://hsph.harvard.edu/research/onnela-lab/). My Ph.D. is supported by the Harvard Prize Fellowship and the NIH T32 Cancer Training Grant. 
 
-Previously, I obtained a master's in **Operations Research and Financial Engineering** from [Princeton University](https://www.princeton.edu). Before my master's, I worked as a Lab Manager at [Columbia Zuckerman Mind Brain Behavior Institute]("https://zuckermaninstitute.columbia.edu/). I graduated with a bachelor's in **Mathematics** from [Columbia University](https://www.math.columbia.edu/).
+Previously, I obtained a master's degree in **Operations Research and Financial Engineering** from [Princeton University](https://www.princeton.edu). Before my master's, I worked as a Lab Manager at [Columbia Zuckerman Mind Brain Behavior Institute]("https://zuckermaninstitute.columbia.edu/). I completed a bachelor's degree in **Mathematics** from [Columbia University](https://www.math.columbia.edu/).
 
 
 \[[CV](/pdfs/elizabeth_yoo_cv.pdf), [github](https://github.com/elizabethyoo), [Google Scholar](https://scholar.google.com/citations?user=kXszJzwAAAAJ&hl=en&oi=ao)\]
