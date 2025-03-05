@@ -9,13 +9,11 @@ layout: home
 
 ## About Me 👩‍🔬
 
-I am interested in leveraging statistical and deep machine learning methods to develop physician decision-making support tools, with the goal of democratizing access to healthcare. I am currently developing a deep neural net (DNN) framework with [Professor Niraj Jha](https://ece.princeton.edu/people/niraj-jha) that accurately and efficiently diagnoses mental health disorders using a small amount of physiological data collected from smartwatches.
+Hi! I am a Ph.D. student studying [Biostatistics](https://hsph.harvard.edu/department/biostatistics/) at the Harvard T.H. Chan School of Public Health. I am interested in developing **interpretable** and reliable **deep learning** methods for **digital phenotyping** and **precision health** applications, with the larger goal of democratizing health. Specifically, I am interested in analyzing continuously and **passively collected data** from personal digital devices (e.g. smartphones and wearables) to quantify and improve the quality of life of individuals suffering from cancer, mental health disorders, and other diseases. 
 
-Previously, I studied **Operations Research and Financial Engineering** at [Princeton University](https://www.princeton.edu), where I focused on Bayesian optimization and inference methods to address problems in biological processes and healthcare.
+I am very fortunate to be advised by [Prof. Jukka-Pekka Onnela](https://hsph.harvard.edu/research/onnela-lab/). My Ph.D. is supported by the Harvard Prize Fellowship and the NIH T32 Cancer Training Grant. 
 
-I worked as a Research Assistant/Lab Manager at [Columbia Zuckerman Mind Brain Behavior Institute]("https://zuckermaninstitute.columbia.edu/).
-
-I graduated with a degree in **Mathematics** from [Columbia University](https://www.math.columbia.edu/).
+Previously, I obtained a master's in **Operations Research and Financial Engineering** from [Princeton University](https://www.princeton.edu). Before my master's, I worked as a Lab Manager at [Columbia Zuckerman Mind Brain Behavior Institute]("https://zuckermaninstitute.columbia.edu/). I graduated with a bachelor's in **Mathematics** from [Columbia University](https://www.math.columbia.edu/).
 
 
 \[[CV](/pdfs/elizabeth_yoo_cv.pdf), [github](https://github.com/elizabethyoo), [Google Scholar](https://scholar.google.com/citations?user=kXszJzwAAAAJ&hl=en&oi=ao)\]
