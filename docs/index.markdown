@@ -20,15 +20,15 @@ Previously, I obtained a master's degree in **Operations Research and Financial 
 
 ## Publications and Preprints 📝
 
-`<sup>`* indicates equal contribution`</sup>`
+<sup>* indicates equal contribution</sup>
 
 - Cui, S., **Yoo, E. C.**, Li, D., Laudanski, K., & Engelhardt, B. E. (2021). Hierarchical Gaussian Processes and
   Mixtures of Experts in Predicting COVID Patient Trajectories. In Proceedings of Pacific Symposium on
   Biocomputing 2022. \[[paper](http://psb.stanford.edu/psb-online/proceedings/psb22/cui.pdf)\]
-- Mandyam, A.`<sup>`*`</sup>`, **Yoo, E. C.`<sup>`*`</sup>`**, Soules, J.`<sup>`*`</sup>`, Laudanski, K., & Engelhardt, B. E. (2021). COP-E-CAT: cleaning
+- Mandyam, A.<sup>*</sup>, **Yoo, E. C.<sup>*</sup>**, Soules, J.<sup>*</sup>, Laudanski, K., & Engelhardt, B. E. (2021). COP-E-CAT: cleaning
   and organization pipeline for EHR computational and analytic tasks. In Proceedings of the 12th ACM
   Conference on Bioinformatics, Computational Biology, and Health Informatics (pp. 1-9). \[[paper](https://dl.acm.org/doi/pdf/10.1145/3459930.3469536)\]
-- Demers, M. F.`<sup>`*`</sup>`, Ianzano, C. J.`<sup>`*`</sup>`, Mayer, P.`<sup>`*`</sup>`, Morfe, P.`<sup>`*`</sup>`, & **Yoo, E. C.`<sup>`*`</sup>`** (2017). Limiting distributions for
+- Demers, M. F.<sup>*</sup>, Ianzano, C. J.<sup>*</sup>, Mayer, P.<sup>*</sup>, Morfe, P.<sup>*</sup>, & **Yoo, E. C.<sup>*</sup>** (2017). Limiting distributions for
   countable state topological Markov chains with holes. Discrete & Continuous Dynamical Systems, 37(1), 105. \[[paper](/pdfs/2016.10.27.limiting_final.pdf)\]
 
 ---
